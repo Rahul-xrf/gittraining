@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asd 
+=======
+asd
+hwllo soidf sdofh
+>>>>>>> 94cf417cb01d97a6e581a0f2608b414e62d533ae
